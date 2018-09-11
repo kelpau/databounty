@@ -1,0 +1,14 @@
+{
+    "host": "19d7d779f8a502497d7eed2a5d035771.ap-southeast-2.aws.found.io",
+    "port": 9243,
+    "index": "patrick-labtrans",
+    "size": 10000,
+    "query": {
+        "match_all": {}
+    },
+    "sort": [
+        "_doc"
+    ],
+    "s3.bucket": "elasticscroll",
+    "compress": true
+}

@@ -1,0 +1,5 @@
+elasticsearch
+jsonlines
+certifi
+boto3
+retrying

@@ -1,0 +1,8 @@
+{
+    "query": "select * from elastic",
+    "database":"sampledb",
+    "output": {
+        "local": "output",
+        "s3": "s3://elasticscroll"
+    }
+}
